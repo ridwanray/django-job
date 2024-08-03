@@ -77,3 +77,6 @@ User.objects.create_user(email="1@gmail.com", password="12345")
 # Flower dashboard
 ![Screenshot](flower.png)
 
+
+# Improvements
+- Add a more secure token authentication scheme
