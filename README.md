@@ -1,5 +1,6 @@
 # Job Posting
-
+API backend of a simple job posting application.
+  
 # Tools & Services:
 - Django & DRF : for building the APIs
 - Pytest: Testing Framework
